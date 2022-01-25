@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TheRedViper
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Python & Java
-- 💞️ I’m looking to collaborate on Automation Frammeworks
+- 💞️ I’m looking to collaborate on Automation Framework
